@@ -1,0 +1,14 @@
+name: AddKeywordsToList
+id: AddKeywordsToList
+key:  addkeywordstolist
+version: 0.1
+author_link: http://www.tinybeans.net/blog/
+author_name: Tomohiro Okuwaki
+l10n_class: AddKeywordsToList::L10N
+description: <__trans phrase="Add keywords to the entry list screen.">
+list_properties:
+    entry:
+        keywords:
+            auto: 1
+            label: Keywords
+            order: 250
